@@ -11,4 +11,4 @@ How to run this backend part:
 4) Run the program
    `nodemon index.js` or `node index.js`
 
-Note- This programe will run properly only, when you have both OnlineShoping-E-cart-frontend- and OnlineShoping-E-cart-backend- files.
+Note- This programme will run properly only, when you have both OnlineShoping-E-cart-frontend- and OnlineShoping-E-cart-backend- files.
